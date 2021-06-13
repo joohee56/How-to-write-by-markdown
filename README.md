@@ -339,6 +339,7 @@ __double underscores__
 
 ~~cancelline~~
 ```
+</br>
 
 > 문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋습니다.    
 > `문장 중간에 사용할 경우에는 **띄어쓰기** 를 사용하는 것이 좋습니다.`
@@ -374,7 +375,7 @@ __double underscores__
 ## 2.9 줄바꿈
 
 ```
-줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상 띄어쓰기를 해아 합니다.
+줄 바꿈을 하기 위해서는 문장 마지막에서 3칸 이상 띄어쓰기를 해야 합니다.
 문장 마지막에 </br> 입력하는 방법도 있습니다.
 ```
 </br>
@@ -398,5 +399,5 @@ __double underscores__
 </br>
 
 ## 참고
-https://gist.github.com/ihoneymon/652be052a0727ad59601
+https://gist.github.com/ihoneymon/652be052a0727ad59601   
 https://velog.io/@yuuuye/velog-마크다운MarkDown-작성법
