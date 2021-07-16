@@ -366,6 +366,8 @@ __double underscores__
 <img src="/path/img.jpg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img></br>
 <img src="/path/img.jpg" width="40%" height="30%" title="% 크기 설정" alt="RubberDuck"></img></br>
 ```
+* alt = 그림 설명   
+
 <img src="https://user-images.githubusercontent.com/83942393/121797394-e1a8ef80-cc5a-11eb-8fd6-125535bd631a.jpeg" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="RubberDuck"></img></br>
 
 <img src="https://user-images.githubusercontent.com/83942393/121797394-e1a8ef80-cc5a-11eb-8fd6-125535bd631a.jpeg" width="40%" height="30%" title="% 크기 설정" alt="RubberDuck"></img></br>
